@@ -1,19 +1,19 @@
-## Tabela de Dispersão
+# Tabela de Dispersão
 
-# Descrição
+## Descrição
 
 Implementação da ED Tabela de Dispersão com aplicação cliente para contas bancárias, desenvolvido como trabalho para a
 matéria EDB I do curso BTI na UFRN.
 
-# Compilando
+## Compilando
 
 >make
 
-# Executando
+## Executando
 
 >build/app
 
-# Autoria
+## Autoria
 
 Desenvolvido por Erick de Oliveira Silva (<erickoliveira.eos@gmail.com>), graduando de BTI na UFRN.
 
